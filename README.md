@@ -1,4 +1,4 @@
-<div align-items="center">
+<div align="center">
 
 ![Screenshot 2023-04-01 at 8 43 39 PM](https://user-images.githubusercontent.com/119981069/229325838-d3a11cd9-0bd3-480d-ad18-66043377317a.png)
 
