@@ -8,4 +8,3 @@
 <br/>
 <br/>
 As a dedicated software engineer and full-stack developer, I'm passionate about creating innovative solutions that make a real impact. With a deep understanding of both front-end and back-end development, I specialize in building robust, scalable applications that are user-friendly and intuitive. I always strive for excellence in everything I do, and I'm committed to staying up-to-date with the latest technologies and trends in the industry. </p>
-<br/>
