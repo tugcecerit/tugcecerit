@@ -1,6 +1,6 @@
 <div align="center">
 
-![Screenshot 2023-04-01 at 8 43 39 PM](https://user-images.githubusercontent.com/119981069/229325838-d3a11cd9-0bd3-480d-ad18-66043377317a.png)
+![Screenshot 2023-04-01 at 10 59 37 PM_thumbnail (1)](https://user-images.githubusercontent.com/119981069/229328833-1787dfbd-4e26-4329-8a0a-d222e2b60031.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=Grandstander&weight=800&size=45&pause=1000&center=true&vCenter=true&width=620&height=60&color=4CBCFB&background-color=000000&lines=Software+Engineer;Full-stack+Developer"/>
 </div>
